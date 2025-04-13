@@ -1,2 +1,2 @@
 # SwindomPlugin
-「Swindom」用のプラグイン
+「Swindom」用プラグインの配布リンクをまとめています。<br>
